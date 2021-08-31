@@ -1,0 +1,82 @@
+[{
+
+        "id": 1,
+        "cedula": "1315691536",
+        "apellidos": "Quiroz",
+        "nombres": "Antonio",
+        "semestre": "Sexto",
+        "paralelo": "X"
+    },
+    {
+        "id": 2,
+        "cedula": "131986756",
+        "apellidos": "Marcillo",
+        "nombres": "Solange",
+        "semestre": "Quinto",
+        "paralelo": "B"
+    },
+    {
+        "id": 3,
+        "cedula": "131346370",
+        "apellidos": "Mero",
+        "nombres": "Abel",
+        "semestre": "Octavo",
+        "paralelo": "X"
+    },
+    {
+        "id": 4,
+        "cedula": "131400340",
+        "apellidos": "Solorzano",
+        "nombres": "Pedro",
+        "semestre": "Noveno",
+        "paralelo": "X"
+    },
+    {
+        "id": 5,
+        "cedula": "131487695",
+        "apellidos": "Parrales",
+        "nombres": "Lissi",
+        "semestre": "Segundo",
+        "paralelo": "B"
+    },
+    {
+        "id": 6,
+        "cedula": "135342639",
+        "apellidos": "Quiñones",
+        "nombres": "Paul",
+        "semestre": "Decimo",
+        "paralelo": "X"
+    },
+    {
+        "id": 7,
+        "cedula": "13478935",
+        "apellidos": "Valdez",
+        "nombres": "Kevin",
+        "semestre": "Septimo",
+        "paralelo": "A"
+    },
+    {
+        "id": 8,
+        "cedula": "131418750",
+        "apellidos": "Murrillo",
+        "nombres": "Ander",
+        "semestre": "Cuarto",
+        "paralelo": "A"
+    },
+    {
+        "id": 9,
+        "cedula": "131812020",
+        "apellidos": "Sanchez",
+        "nombres": "Karla",
+        "semestre": "Octavo",
+        "paralelo": "B"
+    },
+    {
+        "id": 10,
+        "cedula": "131337469",
+        "apellidos": "Cueva",
+        "nombres": "Gabriel",
+        "semestre": "Quinto",
+        "paralelo": "X"
+    }
+]
